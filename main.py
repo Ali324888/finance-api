@@ -8,4 +8,3 @@ def home():
     return {
     "message": "Personal Finance Management API"
     }
-

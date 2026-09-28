@@ -16,3 +16,4 @@ CREATE TABLE IF NOT EXISTS transactions (
 """)
 
 connection.commit()
+
